@@ -1,4 +1,4 @@
-////
+//
 //  Deck.h
 //
 //  Created by Max Chou on 12/17/24.
@@ -7,7 +7,10 @@
 #ifndef Deck_h
 #define Deck_h
 
-#include <cstdlib>
+#include <iostream>
+#include <random>
+#include <algorithm>
+#include <vector>
 #include "Card.h"
 
 class Deck

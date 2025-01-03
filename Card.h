@@ -7,7 +7,6 @@
 #ifndef Card_h
 #define Card_h
 
-#include <iostream>
 #include <string>
 
 enum Suit

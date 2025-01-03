@@ -7,6 +7,7 @@
 #ifndef Player_h
 #define Player_h
 
+#include <iostream>
 #include <vector>
 #include "Deck.h"
 
